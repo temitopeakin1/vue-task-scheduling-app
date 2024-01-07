@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Learn Vue",
+      "time": "8:00 AM",
+      "day": "Monday",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Learn React",
+      "time": "10:00 AM",
+      "day": "Wednesday",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Learn Angular",
+      "time": "10:00 AM",
+      "day": "Wednesday",
+      "reminder": true
+    }
+  ]
+}
